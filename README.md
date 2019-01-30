@@ -1,5 +1,4 @@
 # hello-world
-My first repository.
 
 Bio:
 Hello! I'm leaning more about version control to keep track of some of my program versions
